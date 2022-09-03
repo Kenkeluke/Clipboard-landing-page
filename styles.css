@@ -18,9 +18,25 @@ body{
 background-color: hsl(171, 66%, 44%);
 }
 
+.cyan:hover{
+    cursor: pointer;
+}
+
+.cyan:active{
+    background-color: hsl(171, 59%, 52%); 
+}
 .blue{
     background-color: hsl(233, 100%, 69%);
 }
+
+.blue:hover{
+    cursor: pointer;
+}
+
+.blue:active{
+    background-color: hsl(233, 65%, 59%);
+}
+
 
 
 .small-paragraph{
