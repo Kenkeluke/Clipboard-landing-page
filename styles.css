@@ -16,6 +16,7 @@ body{
 
 .cyan{
 background-color: hsl(171, 66%, 44%);
+box-shadow: 2px 5px 3px hsla(172, 37%, 55%, 0.578);
 }
 
 .cyan:hover{
@@ -27,6 +28,8 @@ background-color: hsl(171, 66%, 44%);
 }
 .blue{
     background-color: hsl(233, 100%, 69%);
+    box-shadow: 2px 5px 3px hsla(233, 78%, 75%, 0.578);
+
 }
 
 .blue:hover{
@@ -61,6 +64,7 @@ background-color: hsl(171, 66%, 44%);
 
 footer{
     background-color: hsla(210, 15%, 92%, 0.574);
+    padding-left: 100px;
 }
 
 .none{
@@ -69,7 +73,7 @@ footer{
 }
 
 .middle-class{
-    padding-left: 170px;
+    padding-left: 70px;
 }
 
 
